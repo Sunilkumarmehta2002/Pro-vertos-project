@@ -1,4 +1,4 @@
-# Pro-vertos 
+# Pro-vertos #
 
 Welcome to our Pro-vertos developed as part of our CA-3 project. This system aims to simplify campus event planning, registration, and ticket booking processes. I took on the role of the project's architect, focusing on creating a user-friendly interface with modern design principles. We chose to implement the system using the MERN stack (MongoDB, Express.js, React.js, Node.js) and adopted the agile Scrum methodology to ensure efficient development.
 
